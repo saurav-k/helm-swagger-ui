@@ -3,7 +3,7 @@
 ##
 image:
   repository: swaggerapi/swagger-ui
-  tag: v3.24.3
+  tag: v3.37.2
   pullPolicy: IfNotPresent
 
 ## Used to provide the location of the openapi.json file.
